@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Diego (DiegoAALS)
 
-**Engenheiro de Dados Jr.** · Tecnólogo em Ciência de Dados (FIAP) · São Paulo, Brasil
+**Engenheiro de Dados Jr.** · Formado em Ciência de Dados (FIAP) · São Paulo, Brasil
 
 Construo pipelines, otimizo queries e transformo dados em decisões.
 
